@@ -1,0 +1,8 @@
+.course-activity-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.course-activity-list li {
+    margin-bottom: 5px;
+}
